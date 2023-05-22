@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "0b0431f9-4dac-38d1-944a-d8a22298bc56",
+    "name": "jocob_likkespito",
+    "created": "2023-03-07 16:19:18 +0000",
+    "source": "Fries",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "2ff03209-ce75-30dd-baef-97ed2363dc0f",
+    "name": "_N_",
+    "created": "2023-03-10 18:58:42 +0000",
+    "source": "Fries",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "8d3775b3-26ae-3f53-8f2f-3b2580480a14",
+    "name": "12345678910",
+    "created": "2023-03-08 23:47:43 +0000",
+    "source": "Fries",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

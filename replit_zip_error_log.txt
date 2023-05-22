@@ -1,0 +1,1 @@
+{"error":"lstat /home/runner/EC-X-1-8-8/eula.txt: no such file or directory","level":"error","msg":"unable to stat eula.txt","time":"2023-05-22T10:38:44Z"}
